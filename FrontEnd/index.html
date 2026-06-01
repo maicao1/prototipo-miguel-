@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduNet: Tela de Login</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body class="inicio">
+
+
+    <h1>Olá!</h1>
+
+    <h3>Bem vindo de volta</h3>
+
+    <div>
+        <div class="configPassWord2">
+            <h4>Digite abaixo seu E-mail</h4>
+            <input type="text" id="email" placeholder="Digite aqui seu E-mail">
+        </div>
+        <div class="configPassWord">
+            <h4>Digite abaixo sua senha:</h4>            
+            <input type="password" id="senha" placeholder="Digite aqui sua senha">
+        
+        </div>
+        <div class="acoes">
+            <button class="configLogin" onclick="checaLogin()">Login</button>
+            <button onclick="limpa()">Limpar tudo</button>
+        </div>
+        <div class="cadastro">
+            <button class="configButtonCriar" onclick="programa()">Você é um novo funcionário do Paraná? Criar uma conta:</button>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+
+</body>
+
+</html>

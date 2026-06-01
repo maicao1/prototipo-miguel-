@@ -1,0 +1,28 @@
+.inicio {
+    background-color: white;
+
+    top: 200px;
+
+}
+
+.inicioapp {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    top: 200px;
+
+}
+
+.color {
+    position: relative;
+    top: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+.configPassWord {
+    margin-top: 10px;
+}
+
+.configPassWord2 {
+    margin-top: 150px;
+}

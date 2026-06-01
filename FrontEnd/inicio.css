@@ -1,0 +1,37 @@
+.acoes {
+    background-color: #244C5A;
+    color: aliceblue;
+    height: 575px;
+    width: 600px;
+    margin: 25px;
+}
+
+body {
+    background-color: #007DBA;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* #244C5A */
+
+.inicio {
+    height: 50px;
+    width: 20px;
+    padding: 10px;
+
+
+}
+
+.msg-vinda {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.bloco-acoes {
+    background-color: #009F4D;
+    height: 750px;
+    width: 650px;
+    border-radius: 10px;
+    margin: 60px;
+
+}
